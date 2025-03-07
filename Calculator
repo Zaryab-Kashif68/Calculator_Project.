@@ -16,4 +16,9 @@ int c= convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter number 2");
 int d= convert.ToInt32(Console.ReadLine());
 inr sub = a-b;
+ Addition
+int a= convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter number 2");
+int b= convert.ToInt32(Console.ReadLine());
+inr sum = a+b;
 
