@@ -4,4 +4,4 @@ Console.WriteLine("Enter number 1");
 int g= convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter number 2");
 int h= convert.ToInt32(Console.ReadLine());
-inr div = g*h;
+inr div = g/h;
