@@ -1,2 +1,7 @@
 Console.WriteLine("Zaryab Kashif");
 Console.WriteLine("24-ST-002");
+Console.WriteLine("Enter number 1");
+int c= convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter number 2");
+int d= convert.ToInt32(Console.ReadLine());
+inr sub = a-b;
